@@ -1,0 +1,14 @@
+Multiprocessing and multithreading are used i order to achieve multitasking in java(this is the theory if opereting system).
+* There are many process in os in that perticular process there are many threads working back ground .
+*   threads can communicate easy with each other .(Many threads are working simultaniously)
+
+---> There are two types of thread initialization is done .
+      1) By extending the classs thread.
+      2) By ableing the runnable user interface.
+
+      Syntax - class example extends threads{
+         @Override
+
+         ..Block of code ....
+
+      }

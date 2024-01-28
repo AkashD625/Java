@@ -1,0 +1,6 @@
+Recursion - When the function calls it self again and again untill the condition is reached(base case) is  called Recursion.
+Q1- Print Number from 5 to 1 using recursion .
+Q2- Print Number from 1 to 5 using recursion.
+Q3- print sum of n natural numbers.
+Q4- Find the factorial of n.
+Q5- Print the fibonacci series till n  th term.
