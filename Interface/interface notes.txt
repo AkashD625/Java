@@ -1,0 +1,3 @@
+Interface in java  - In java interface are defined as the group of related methods in the empty bodies .
+* In inheritance we use extends keyword , and in interface we use implements keyword .
+* Interface also acts as intermediator in java.

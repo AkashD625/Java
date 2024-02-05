@@ -1,0 +1,12 @@
+Abstract- Abstract is the term that exits in thought and not physicaly.
+Abstract method- This is the type of method starting with abstract keyword and doesnt have any implementation.
+         syntax- abstract void moveto(int a.int b)
+
+Abstract class - It is the type of class that contains abstract method . Becouse of this abstract method the class will become abstract class.
+* it will also tell that in subclass we should include the abstract method will coding .
+* Object cannot be created of abstract class becouse abs class in only in imaginnery.
+* we can create the object of subclass(concret subclass)
+* The methods of abstract class abstract class should be overrided in subclass extending the super class.
+* if we are using the abstract method then we should make the class as abstract.
+
+           
