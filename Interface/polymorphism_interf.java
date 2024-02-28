@@ -8,10 +8,12 @@ interface show_map{
     void show_distance();
 }
 
+
 class smart_phone implements camera,show_map{
     public void take_photo(){
         System.out.println("photo took.");
     }
+    
     public void take_video(){
         System.out.println("Taking the video");
     }
